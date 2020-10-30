@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">dicoding.Submission</string>
+    <string name="name_wisata">Nama Wisata NTT</string>
+    <string name="content_main">Daftar wisata di NTT</string>
+    <string name="content_rank">Value rank</string>
+    <string name="caption">overview</string>
+    <string name="wisata_identitas">Wisata Identity</string>
+    <string name="wisata_caption">Wisata Caption</string>
+    <string name="content_caption">content Caption</string>
+    <string name="content_identitas">content identitas</string>
+    <string name="name_saya">Aloysius mirel</string>
+    <string name="email_saya">Aloysius.mirel96@gmail.com</string>
+    <string name="rank">Indonesia Rank : \n biaya wisata : </string>
+    <string name="wisata_ntt" />
+</resources>
